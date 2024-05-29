@@ -1,2 +1,2 @@
 pip == 23.3.1
-streamlit == 1.4.0
+streamlit == 1.33.0
