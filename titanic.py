@@ -1,7 +1,6 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import sklearn
 # Load the trained model from the pickle file
 filename = 'trained_model.sav'
 loaded_model = pickle.load(open(filename, 'rb'))
