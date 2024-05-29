@@ -32,6 +32,8 @@ This project demonstrates the application of machine learning techniques to pred
 Model Deployment 
 
 I developed titanic survival prediction model and deploy in streamlit app . 
+
+
 Link : https://titanicsurvivalprediction-bkbyfwnq62fwrkxjuyhatr.streamlit.app/
 
 
